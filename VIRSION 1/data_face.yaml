@@ -1,0 +1,7 @@
+path: D:/VIRSION 1/datasets/dataset face 4369
+
+train: images/train
+val: images/val
+
+names:
+  0: face

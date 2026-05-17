@@ -1,0 +1,7 @@
+path: D:/VIRSION 1/datasets/dataset vape 8487
+
+train: images/train
+val: images/val
+
+names:
+  0: vape
